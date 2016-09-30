@@ -1,0 +1,26 @@
+html{
+    background-image: url(http://www.planwallpaper.com/static/images/518079-background-hd.jpg);
+}
+.nal ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    position: relative;
+    font-size:23px;
+}
+.nar ul li{
+    display:inline-block;
+}
+.nav ul li a{
+    display :block;
+    text-align:center;
+    padding: 15px;
+    color:white;
+    text-decoration: none;
+    font-weight:bold;
+    width:130px;
+    height:30px;
+    border-style: inset;
+    border-width:thick;
+    float:left;
+}

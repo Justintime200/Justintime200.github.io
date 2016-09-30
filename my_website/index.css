@@ -1,0 +1,21 @@
+
+.homepic{
+    width:500px;
+    border-style: inset;
+    border-color: white;
+    border-width: 10px;
+}
+h1{
+    font-size:30px;
+    color:white;
+    
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.center {
+    text-align: center;
+    border: 3px solid green;
+}
